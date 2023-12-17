@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding:0px;
+
+}
+
+#trainer-list { background-color: red;
+    justify-content: center;
+    display: flex;
+}
+
+.container2 {
+    
+
+    margin-left:20px;}
+
+.item {
+    padding: 0px 10px;
+    width: 265px;
+ }  
+
+ 
+
+
+ .image {
+    margin: 17px;
+    }
+ .item img {
+    width:250px;
+    height: 400px;
+    box-shadow: 10px 10px brown;
+}
+
+td {
+    padding: 30px 60px;
+}
+
+
+
+    .service-item {
+        margin:5px;
+       
+        width: 290px;
+   
+    }
+
+    .foot {
+        margin: 50px;
+        }

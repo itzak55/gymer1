@@ -1,0 +1,170 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#navbar {
+    display: flex;
+    flex-direction: column;
+    font-size: 2.1rem;
+
+
+}
+
+#navbar ul li a {
+
+    font-size: 1rem;
+border-radius: 2px;
+    padding: 4px 14px;
+
+}
+
+.btn {
+    border-radius: 20px;
+    font-size: 1rem;
+    /* border: 2px solid green; */
+    padding: 1px 10px;
+}
+
+
+#home {
+    height: 692px;
+}
+
+#home h1 {
+
+    font-size: 3.0rem;
+    padding: 0px;
+}
+
+
+.head {
+    padding: 0px;
+    font-size: 2.4rem;
+
+}
+
+#box1 {
+    display: block;
+    justify-content: space-around;
+    padding: 0;
+    margin: 0;
+}
+
+#box2 {
+    flex-direction: column;
+    padding: 25px 35px;
+}
+
+#image1 img {
+    height: 120px;
+    width: 120px;
+}
+
+
+#fitness {
+    height: auto;
+    width: 100vw;
+
+}
+
+
+#fitness h2 {
+
+    font-size: 1.7rem;
+
+}
+
+
+#fitness p {
+    font-size: .8rem;
+    text-align: center;
+    color: lightgray;
+}
+
+
+.container2 {
+    height:auto;
+    width: 90vw;
+    margin-left: 0;
+}
+
+
+.item {
+    width: 100vw;
+
+}
+
+.button ul {
+    display: block;
+
+}
+
+.item img {
+    width: 90vw;
+
+}
+
+#trainer-list {
+    flex-direction: column;
+
+}
+
+#service-list {
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.service-item {
+    margin-bottom: 15px;
+    border: 2px solid red;
+    width: 90vw;
+    height: 500px;
+    background-color: aqua;
+}
+
+
+td {
+    padding: 0px;
+    font-size: 1rem;
+}
+
+.center a {
+
+    font-size: 1.1rem;
+}
+
+
+#contact-box {
+    width: 80vw;
+}
+
+#contact-box input {
+
+
+    width: 75vw;
+}
+
+#contact-box label {
+    display: block;
+}
+
+
+footer {
+    display: flex;
+    flex-direction: column;
+}
+
+.foot {
+    margin: 50px auto;
+    width: 90vw;
+}
+
+
+.h1-secondary {
+    color: aqua;
+    font-size: 1.7rem;
+    margin-top: 50px;
+   margin: 0px;
+}
